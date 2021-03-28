@@ -1,6 +1,6 @@
 # ACE-VAE
 
-Abstract
+# 1. Abstract
 The low-illumination image enhancement is a challenging task because color restoration, denoising,
 and light enhancement should all be taken into accounts. However, most previous works focus
 on light enhancement, which is difficult to generate high quality enhanced images. To address
@@ -17,7 +17,7 @@ enhancement. The experiments show that the proposed model achieves better perfor
 the other state-of-the-art models.
 
 
-Download
+# 2. Download
 Synthetic dataset(Baidu Drive): link:https://pan.baidu.com/s/1upUgKuEVZInnamrKINi8Ug    password:z7fc 
 Codes(Coming soon)
 
